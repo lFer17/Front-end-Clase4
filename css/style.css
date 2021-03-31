@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+footer{
+    display:flex;
+    justify-content: center;
+    background-color: #c4c4c4;
+    height: 40px;
+}
+
+footer>p {
+    margin: 0px 0px;
+    align-self: center;
+    color: #000000;
+}
